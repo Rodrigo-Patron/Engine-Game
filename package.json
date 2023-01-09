@@ -33,6 +33,5 @@
   },
   "devDependencies": {
     "gh-pages": "^4.0.0"
-  },
-  "homepage": "https://Rodrigo-Patron.github.io/react-deploy"
+  }
 }

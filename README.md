@@ -1,2 +1,2 @@
-Boat Engine Game with React
+Boat Engine Game built with React.js
 
